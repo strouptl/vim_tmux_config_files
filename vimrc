@@ -1,17 +1,25 @@
 "Show line numbers
 set number
 
-"Indentation (2 spaces for shift and tab)
-set shiftwidth=2
-set expandtab
-set tabstop=2
-
-"Auto indentation
-set autoindent
-set smartindent
-
 "Disable word wrapping
 set nowrap
+
+"Indentation
+"- use 2 spaces for shift
+set shiftwidth=2
+
+"- use 2 spaces for tab
+set tabstop=2
+
+"- convert tabs to spaces
+set expandtab
+
+"Automatic indentation (for new lines)
+"- match indentation for new lines with line above (default)
+set autoindent
+
+"- increase/decrease indentation by filetype (overrides default above)
+filetype plugin indent on
 
 "Appearance
 "- force vim to use 256 colors
