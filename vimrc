@@ -8,11 +8,11 @@ set nowrap
 "- use 2 spaces for shift
 set shiftwidth=2
 
-"- use 2 spaces for tab
-set tabstop=2
-
 "- convert tabs to spaces
 set expandtab
+
+"- use 2 spaces for tab
+set tabstop=2
 
 "Automatic indentation (for new lines)
 "- match indentation for new lines with line above (default)
