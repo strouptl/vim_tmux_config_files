@@ -22,7 +22,7 @@ set autoindent
 filetype plugin indent on
 
 "Appearance
-"- force vim to use 256 colors
+"- force Vim to use 256 colors
 set t_Co=256
 
 "- dark background

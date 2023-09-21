@@ -1,4 +1,4 @@
-# Vim/TMUX Config files
+# Vim/tmux Config Files
 
 ## Instructions:
 1. Copy files to your home directory
