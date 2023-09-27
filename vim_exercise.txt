@@ -1,0 +1,87 @@
+This is a line of text.
+
+1. Delete the capitalized words in the line of text below
+
+This DELETE is a line ME of text.
+
+2. Delete the capitalized words in the line of text below using a single command for each group.
+
+This DELETE THIS GROUP is a line DELETE THIS GROUP TOO of text.
+
+3. Delete the capitalized text below (2 key strokes):
+
+THIS IS A LINE OF TEXT.
+
+4. Delete the capitalized text below (3 key strokes):
+
+THIS IS A LINE OF TEXT.
+THIS IS A LINE OF TEXT.
+THIS IS A LINE OF TEXT.
+
+5. Delete the whole paragraph below (3 key strokes):
+
+Lorem ipsum dolor sit amet, consectetur adipisci elit, 
+sed eiusmod tempor incidunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, quis nostrum exercitationem ullam 
+corporis suscipit laboriosam, nisi ut aliquid ex ea commodi 
+consequatur. Quis aute iure reprehenderit in voluptate velit 
+esse cillum dolore eu fugiat nulla pariatur. Excepteur sint 
+obcaecat cupiditat non proident, sunt in culpa qui officia 
+deserunt mollit anim id est laborum.
+
+6. Duplicate the line of text below (3 key strokes):
+
+This is a line of text.
+
+7. Duplicate the line of text below 3 times:
+
+This is a line of text.
+
+8. Correct the line of text below (without pressing "i":-):
+
+This is a text of line.
+
+9. Uncapitalize the capitalized words below
+
+This is a LINE of TEXT.
+
+10. Capitalize the entire line below (ALL CAPS).
+
+This is a line of text.
+
+11. Find and replace all misspellings of line below
+
+This is a lien of text.
+This is a lien of text.
+This is a lien of text.
+This is a lien of text.
+This is a lien of text.
+This is a lien of text.
+This is a lien of text.
+This is a lien of text.
+This is a lien of text.
+This is a lien of text.
+This is a lien of text.
+This is a lien of text.
+This is a lien of text.
+This is a lien of text.
+
+12. Indent the second line of text below to match the first line:
+
+      This is a line of text.
+    This is a second line of text.
+
+13. Unindent the second line of text to match the first line:
+
+      This is a line of text.
+        This is a second line of text.
+
+14. Indent the second line of text below to match the first line (only press ">" once)
+
+      This is a line of text.
+This is a second line of text.
+
+15. Unindent the second line of text below to match the first line (only press "<" once)
+
+      This is a line of text.
+            This is a second line of text.
