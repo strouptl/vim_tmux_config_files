@@ -27,6 +27,3 @@ set t_Co=256
 
 "- dark background
 set background=dark
-
-"- color scheme
-colorscheme monokai
